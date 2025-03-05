@@ -34,9 +34,10 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Is  Displays files and directories in a given location   essential for new engineersIs  is a basic command used every day to view file structures.
+grep Helps quickly find relevant information in large log files  essential for new engineers helps debug programs and work processes.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Study as the teacher teaches only, it will not be enough. Find new news, read, do more labs and try to solve problems by yourself.
